@@ -1,0 +1,36 @@
+/* Fichier généré par scripts/generate-theme-css.mjs — ne pas modifier à la main.
+   Source : theme/tokens.ts → npm run theme */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --radius: 12px;
+    --background: 41.54 25.49% 90%; /* #ECE8DF */
+    --foreground: 85.71 10.14% 13.53%; /* #23261F */
+    --card: 40 36% 95.1%; /* #F7F4EE */
+    --card-foreground: 85.71 10.14% 13.53%; /* #23261F */
+    --popover: 40 36% 95.1%; /* #F7F4EE */
+    --popover-foreground: 85.71 10.14% 13.53%; /* #23261F */
+    --primary: 133.13 22.22% 28.24%; /* #38583F */
+    --primary-foreground: 40 36% 95.1%; /* #F7F4EE */
+    --secondary: 112.17 9.39% 51.96%; /* #7C9079 */
+    --secondary-foreground: 85.71 10.14% 13.53%; /* #23261F */
+    --muted: 112.17 9.39% 51.96%; /* #7C9079 */
+    --muted-foreground: 76.36 6.15% 35.1%; /* #5C5F54 */
+    --accent: 112.17 9.39% 51.96%; /* #7C9079 */
+    --accent-foreground: 85.71 10.14% 13.53%; /* #23261F */
+    --destructive: 85.71 10.14% 13.53%; /* #23261F */
+    --destructive-foreground: 40 36% 95.1%; /* #F7F4EE */
+    --border: 85.71 10.14% 13.53%; /* #23261F17 */
+    --input: 85.71 10.14% 13.53%; /* #23261F17 */
+    --ring: 133.13 22.22% 28.24%; /* #38583F */
+    --chart-1: 133.13 22.22% 28.24%; /* #38583F */
+    --chart-2: 96.67 13.24% 73.33%; /* #B9C4B2 */
+    --chart-3: 32 54.22% 51.18%; /* #C6873F */
+    --chart-4: 76.36 6.15% 35.1%; /* #5C5F54 */
+    --chart-5: 85.71 10.14% 13.53%; /* #23261F17 */
+  }
+}
